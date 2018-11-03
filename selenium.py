@@ -58,8 +58,6 @@ def myFunction():
 
     lastPageExtra = possibleItems-int(TotalItems)
 
-    #print lastPageItems
-
     #paths = 'ctl00_LeftColumn_C001_RadGrid1_ctl00__0'
     f = open("output3.txt", "w")
     for j in range(nroftimes):
